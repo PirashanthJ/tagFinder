@@ -3,7 +3,7 @@
 
 
 #### Old walkthrough
-[![Demo CountPages alpha](https://j.gifs.com/N9RNv6.gif)]
+[![Demo CountPages alpha](https://j.gifs.com/YvR2KK.gif)]
 
 Copyright © 2018 PirashanthJ
 
